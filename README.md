@@ -1,4 +1,4 @@
-    # Secure Login Portal
+# Secure Login Portal
 
 A simple and secure login portal built with Go using **in-memory storage** instead of a database.
 
