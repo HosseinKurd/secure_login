@@ -1,6 +1,6 @@
-# Secure Login Portal
+# Just a simple Secure Login Portal with GoLang
 
-A simple and secure login portal built with Go using **in-memory storage** instead of a database.
+A simple and secure login portal built with Go language using **in-memory storage** instead of a database.
 
 > **Note:** Users and sessions are lost when the application restarts.
 
